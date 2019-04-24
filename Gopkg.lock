@@ -201,16 +201,18 @@
 
 [[projects]]
   branch = "master"
-  digest = "1:64bb0b48dfba5f2158ca6bf45588c20a3052a69e717ae30849bc4d97ce5fc1ea"
+  digest = "1:e17f12b8e77e8e5af68ad05976d0b3a37b4d3c36072a2b279cfe60da8e20e7e2"
   name = "golang.org/x/text"
   packages = [
     "internal/gen",
+    "internal/language",
+    "internal/language/compact",
     "internal/tag",
     "language",
     "unicode/cldr",
   ]
   pruneopts = ""
-  revision = "c4d099d611ac3ded35360abf03581e13d91c828f"
+  revision = "009a8913fc3c4dcbec4a76ff6f667f64bad16e8d"
 
 [solve-meta]
   analyzer-name = "dep"

@@ -104,11 +104,11 @@
 
 [[projects]]
   branch = "master"
-  digest = "1:7535c60bd75c6772c949551a2ce83d4ec6545d16d354ccf4d225a96a04cf8605"
+  digest = "1:fafe0497685b31864c03f4c14b20c13c54ded1adf1a7361cf2b70bb05a71b069"
   name = "github.com/karalabe/hid"
   packages = ["."]
   pruneopts = ""
-  revision = "93a94ab6671087f0768f1d4e701c0ec14f449df9"
+  revision = "12a701bced72dabdf5ca67132ccfa1b6cc60c2a7"
 
 [[projects]]
   branch = "master"

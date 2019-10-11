@@ -177,7 +177,7 @@
 
 [[projects]]
   branch = "master"
-  digest = "1:9489340a57b9ff6a1b6c8e16aaa65438b1fa0d6124a172d46a86f1b24fbcf639"
+  digest = "1:372327efe9a5d55c2c3f4eff1ff77ae759d1cbb26ab8e64812376b207bbc84b2"
   name = "golang.org/x/crypto"
   packages = [
     "pbkdf2",
@@ -186,7 +186,7 @@
     "ssh/terminal",
   ]
   pruneopts = ""
-  revision = "2509b142fb2b797aa7587dad548f113b2c0f20ce"
+  revision = "0e8c3a9068a2fb325459490d2ce7baa4ffe2d00f"
 
 [[projects]]
   branch = "master"

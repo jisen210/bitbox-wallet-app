@@ -144,7 +144,7 @@
 
 [[projects]]
   branch = "master"
-  digest = "1:b9eda1197a6355b4b023cf0c4afe199daf7082d551b8b4b946083a48892adcda"
+  digest = "1:a10d8cc376e4ed81ca1fdf8a0f2632e64ecc4d42e5fa067828b430356ae22f81"
   name = "github.com/skip2/go-qrcode"
   packages = [
     ".",
@@ -152,7 +152,7 @@
     "reedsolomon",
   ]
   pruneopts = ""
-  revision = "695fc75a09738f9be56aaa3aecfd7dac28e66b63"
+  revision = "a3b48390827ef63b58d657612023e343b90bdc58"
 
 [[projects]]
   branch = "master"

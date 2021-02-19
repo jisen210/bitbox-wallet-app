@@ -177,7 +177,7 @@
 
 [[projects]]
   branch = "master"
-  digest = "1:9489340a57b9ff6a1b6c8e16aaa65438b1fa0d6124a172d46a86f1b24fbcf639"
+  digest = "1:5a73692d1508d543a78fba108ec563151b02d427cc4714a3892f54f10df52c19"
   name = "golang.org/x/crypto"
   packages = [
     "pbkdf2",
@@ -186,18 +186,27 @@
     "ssh/terminal",
   ]
   pruneopts = ""
-  revision = "2509b142fb2b797aa7587dad548f113b2c0f20ce"
+  revision = "b8e89b74b9df40d0d1cd96f441924c545d8d0dea"
 
 [[projects]]
   branch = "master"
   digest = "1:8675fd58d5c65344674f1c47ff1dde63503fb63d115fac53c4ccd68e8167c940"
   name = "golang.org/x/sys"
   packages = [
+    "plan9",
     "unix",
     "windows",
   ]
   pruneopts = ""
   revision = "91ee8cde435411ca3f1cd365e8f20131aed4d0a1"
+
+[[projects]]
+  branch = "master"
+  digest = "1:2553b9a2382165d31f5cec011552f78340dfb3fcb3e443f92d639b2d77ce4006"
+  name = "golang.org/x/term"
+  packages = ["."]
+  pruneopts = ""
+  revision = "2321bbc49cbf8303ea9834c419750e793e31be73"
 
 [[projects]]
   branch = "master"

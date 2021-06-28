@@ -11,7 +11,7 @@
 
 [[projects]]
   branch = "master"
-  digest = "1:a73b964f99e5336c48a778c700d7df9caae3a4e238aec59298d78e042178ea90"
+  digest = "1:eba680c60270c4b2395f593716708941419ee8551d4c33068de3670fe9d1c4bf"
   name = "github.com/btcsuite/btcd"
   packages = [
     "blockchain",
@@ -27,7 +27,7 @@
     "wire",
   ]
   pruneopts = ""
-  revision = "bc0944904505aab55e089371a892be2f87883161"
+  revision = "86a17263b0ff614cd9e1fb3ef4d2757af00e8578"
   source = "https://github.com/btcsuite/btcd.git"
 
 [[projects]]
